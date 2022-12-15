@@ -1,7 +1,5 @@
 # Multiple Runtime .Net
 
-***
-
 #### Information on multiple runtime .Net version on IIS Server
 
 1. You can install Multiple [Hosting Bundle](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/hosting-bundle?view=aspnetcore-7.0) on the same IIS Server.
