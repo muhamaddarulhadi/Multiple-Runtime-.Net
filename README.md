@@ -1,6 +1,6 @@
 # Multiple Runtime .Net
 
-#### Information on multiple runtime .Net version on IIS Server
+#### Information on multiple runtime .Net Core version on IIS Server
 
 1. You can install Multiple [Hosting Bundle](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/hosting-bundle?view=aspnetcore-7.0) on the same IIS Server.
 2. For example, you have [ASP.NET Core Runtime .Net 5](https://dotnet.microsoft.com/en-us/download/dotnet/5.0) hosting bundle installed on your IIS Server, if, you want to put .Net 6 projects inside that server, you can just download [ASP.NET Core Runtime .Net 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) hosting bundle and install it.
