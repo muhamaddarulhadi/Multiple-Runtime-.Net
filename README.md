@@ -43,3 +43,5 @@
 18. [Install .NET Core, ASP.NET Core](https://www.tutorialsteacher.com/core/aspnet-core-environment-setup)
 19. [Install .NET on Windows](https://learn.microsoft.com/en-us/dotnet/core/install/windows?tabs=net70)
 20. [.NET Core vs .NET Framework: How to Pick a .NET Runtime for an Application](https://stackify.com/net-core-vs-net-framework/)
+21. [Side-by-Side Execution in the .NET Framework](https://learn.microsoft.com/en-us/dotnet/framework/deployment/side-by-side-execution)
+22. [Multiple versions of .NET on the same server](https://stackoverflow.com/questions/49164607/multiple-versions-of-net-on-the-same-server)
