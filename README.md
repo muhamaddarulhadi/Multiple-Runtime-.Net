@@ -19,9 +19,6 @@
 3. The installer itself will tell you if a restart is needed. Restart is needed only if some files are currently in use.
 4. After that, you can straight away create your web application .Net 6.0 on IIS Manager.
 
-#### Information on .Net Framework 4.8 and .Net Core(s)
-
-1. You can install both runtime and running it on 1 server.
 
 </BR>
 
